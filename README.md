@@ -2,6 +2,7 @@
 
 OPIS PROJEKTU
 Stworzona przeze mnie baza danych to SERWIS SAMOCHODOWY. Baza ta składa się z 12 tabel:
+
 • ZLECENIE NAPRAWY - zawierającej informacje o zleceniu,
 • SZCZEGÓŁY NAPRAWY - będącej tabelą pośrednią pomiędzy tabelami NAPRAWA i ZLECENIE NAPRAWY, umożliwiającą połączenie WIELE DO WIELU,
 • NAPRAWA - zawierająca informacje o rodzajach napraw dostępnych w serwisie,
